@@ -24,7 +24,7 @@ In this method,the initial centers are picked in a different way ,compared to st
 chosen in such a way that the average distance of this chosen one to all the previous
 (i-1) centers is maximal.The next steps are similar to strategy 1
 
-### Results
+## Results
 The centroids are updated iteratively.The number of iteration is defined explicitly.and
 it’s value is 9 because after 9 iterations the centroid of the clusters remains the same
 .The objective function is calculated and graph is plotted against the number of
